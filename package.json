@@ -1,0 +1,19 @@
+{
+  "name": "@robotopia/assets-loader",
+  "version": "1.0.0",
+  "description": "simple asset loader util",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robotopia-x/assets-loader.git"
+  },
+  "author": "Paul Sonnentag <Paul.Sonnentag@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robotopia-x/assets-loader/issues"
+  },
+  "homepage": "https://github.com/robotopia-x/assets-loader#readme"
+}
