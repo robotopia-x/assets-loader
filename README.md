@@ -8,7 +8,7 @@ npm install @robotopia/assets-loader
 
 ## Usage
 
-Initially load all your assets
+Initially load all your images
 
 ```Javascript
 const assets = require('@robtopia/assets-loader')
