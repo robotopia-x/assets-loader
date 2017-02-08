@@ -11,7 +11,7 @@ npm install @robotopia/assets-loader
 Initially load all your images
 
 ```Javascript
-const assets = require('@robtopia/assets-loader')
+const assets = require('@robotopia/assets-loader')
 
 assets.load({
   HERO: 'path/to/hero.png',
